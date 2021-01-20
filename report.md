@@ -12,7 +12,7 @@
 ## В результате тестирования выявлены следующие дефекты:
 
 
-* [Лицензированный ключ "80b427f8-92cd-3aae-ba04-3927fbe17c6" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/3) hhhh
+* [Лицензированный ключ "80b427f8-92cd-3aae-ba04-3927fbe17c6" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/3) 
 
 * [Лицензированный ключ "387eedc6-12e9-3b32-9881-63b6b5e85317" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/2)
 
