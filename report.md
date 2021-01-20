@@ -28,9 +28,9 @@
 * <Чек лист>
 
 Чек лист: 
-KeyValidator определяет валидный ключ
-KeyValidator определяет не валидный ключ
-KeyValidator не выдаст валидный или невалидный ключ, если не будет введен какой либо ключ
+1. KeyValidator определяет валидный ключ
+2. KeyValidator определяет не валидный ключ
+3. KeyValidator не выдаст валидный или невалидный ключ, если не будет введен какой либо ключ
 
 
 * [В качестве тестовых данных использовались данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
@@ -61,7 +61,7 @@ RESULT FOR: FAIL
 
 ## Тестирование производилось в следующем окружении:
 
-* версия и разрядность ОС
+* версия и разрядность ОСgit 
 Windows 10 Enterprise
 4-bit operating system, x64-based processor
 
