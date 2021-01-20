@@ -2,7 +2,7 @@
 
 <15.01.2021> - <15.01.2021> было проведено Функциональное тестирование приложения Руководство использования KeyValidator 
 
-Проверка соответствия выполненных работ  в соответствии с [Техническим заданием] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) который был предназначен для работы на платформе Java +8.
+Проверка соответствия выполненных работ  в соответствии с [Техническим заданием](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md) который был предназначен для работы на платформе Java +8.
 
 Данные проверки были проведены на платформе Java 11.
 
@@ -12,14 +12,15 @@
 ## В результате тестирования выявлены следующие дефекты:
 
 
-[Лицензированный ключ "80b427f8-92cd-3aae-ba04-3927fbe17c6" воспринимаеться как невалидный ключ]
-(https://github.com/Sininerebane/Third_one/issues/3)
+* [Лицензированный ключ "80b427f8-92cd-3aae-ba04-3927fbe17c6" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/3)
 
-[Лицензированный ключ "387eedc6-12e9-3b32-9881-63b6b5e85317" воспринимаеться как невалидный ключ]
+* [Лицензированный ключ "387eedc6-12e9-3b32-9881-63b6b5e85317" воспринимаеться как невалидный ключ]
 (https://github.com/Sininerebane/Third_one/issues/2)
 
-[Валидный ключ "80b427f8-92cd-3aae-ba04-3927fbe17c6" воспринимаеться KeyValidator-ом как невалидный]
-(https://github.com/Sininerebane/Third_one/issues/1)
+* [Лицензированный ключ "387eedc6-12e9-3b32-9881-63b6b5e85317" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/2)
+
+
+* [Не лицензированный ключ "2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1" воспринимаеться как валидный ключ](https://github.com/Sininerebane/Third_one/issues/1)
 
 ## Описание процесса тестирования:
 1. Открыть терминал в папке, где загружен файл KeyValidator.class
@@ -34,7 +35,8 @@ KeyValidator определяет валидный ключ
 KeyValidator определяет не валидный ключ
 KeyValidator не выдаст валидный или невалидный ключ, если не будет введен какой либо ключ
 
-* [В качестве тестовых данных использовались данные] (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
+
+* [В качестве тестовых данных использовались данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Ключи для проверки
 
