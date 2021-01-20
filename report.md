@@ -30,6 +30,7 @@
 Чек лист: 
 1. KeyValidator определяет валидный ключ
 2. KeyValidator определяет не валидный ключ
+3. KeyValidator не выдаст валидный или невалидный ключ, если не будет введен какой либо ключ
 
 
 * [В качестве тестовых данных использовались данные](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
