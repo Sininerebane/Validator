@@ -12,7 +12,7 @@
 ## В результате тестирования выявлены следующие дефекты:
 
 
-* [Лицензированный ключ "80b427f8-92cd-3aae-ba04-3927fbe17c6" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/3)
+* [Лицензированный ключ "80b427f8-92cd-3aae-ba04-3927fbe17c6" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/3)git 
 
 * [Лицензированный ключ "387eedc6-12e9-3b32-9881-63b6b5e85317" воспринимаеться как невалидный ключ](https://github.com/Sininerebane/Third_one/issues/2)
 
@@ -61,11 +61,11 @@ RESULT FOR: FAIL
 
 ## Тестирование производилось в следующем окружении:
 
-<версия и разрядность ОС>
+* версия и разрядность ОС
 Windows 10 Enterprise
 4-bit operating system, x64-based processor
 
-<версия Java>
+* версия Java
 openjdk version "11.0.9.1" 2020-11-04
 OpenJDK Runtime Environment AdoptOpenJDK (build 11.0.9.1+1)
 OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.9.1+1, mixed mode)
