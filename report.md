@@ -59,7 +59,7 @@ RESULT FOR: FAIL
 
 ## Тестирование производилось в следующем окружении:
 
-* версия и разрядность ОСgit 
+* версия и разрядность ОС
 Windows 10 Enterprise
 4-bit operating system, x64-based processor
 
